@@ -83,10 +83,9 @@ i {
   height: 40px;
   font-size: 15px;
   text-align: center;
-}
-
+} 
 .container button:hover {
   border: 3px solid rgb(0, 0, 0);
   cursor: pointer;
-  color: white;
+  color: ;
 }
