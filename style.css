@@ -88,4 +88,5 @@ i {
 .container button:hover {
   border: 3px solid rgb(0, 0, 0);
   cursor: pointer;
+  color: white;
 }
